@@ -7,5 +7,4 @@ edition = "2021"
 
 [dependencies]
 
-#native-tls = { version = "=0.2.11"  }
 openssl = { version = "=0.10.44"  }
